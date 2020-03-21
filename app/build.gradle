@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "at.xtools.pwawrapper"
+        applicationId "de.symptomtracker.android"
         minSdkVersion 20
         targetSdkVersion 28
         versionCode 1

@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android-PWA-Wrapper.iml" filepath="$PROJECT_DIR$/Android-PWA-Wrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Android-PWA-Wrapper-app.iml" filepath="$PROJECT_DIR$/app/Android-PWA-Wrapper-app.iml" group="Android-PWA-Wrapper/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-Android-PWA-Wrapper.iml" filepath="$PROJECT_DIR$/java-Android-PWA-Wrapper.iml" group="Android-PWA-Wrapper" />
     </modules>
   </component>
 </project>
